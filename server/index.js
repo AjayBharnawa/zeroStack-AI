@@ -16,6 +16,6 @@ app.use(cors({
     credentials : true
 }))
 app.listen(port,()=>{
-    console.log("server Startedd")
+    console.log("server Starteddd")
     connectDB()
 })
